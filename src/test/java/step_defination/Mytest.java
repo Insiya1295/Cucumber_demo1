@@ -5,9 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
 public class Mytest {
 	WebDriver driver;
 	@Given("Testme app Login")

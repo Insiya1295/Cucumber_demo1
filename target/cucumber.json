@@ -1,0 +1,59 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "Login functionality on app",
+        "description": "",
+        "id": "login-applications-on-jenkins-today;login-functionality-on-app",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "Testme app Login",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "User launched the app",
+            "match": {},
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "User enters the vald credentials",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "verifies for login status in his credentials",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login applications on jenkins today",
+    "description": "",
+    "id": "login-applications-on-jenkins-today",
+    "keyword": "Feature",
+    "uri": "Feature123/mytest1.feature",
+    "tags": []
+  }
+]
